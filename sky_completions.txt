@@ -1,0 +1,7 @@
+Prompt: 'The sky is'
+GPT-4o token IDs: [976, 17307, 382]
+
+FAILED: the model cannot read 'The sky is'.
+Token(s) ' sky' never appeared in fineweb_corpus.txt, so they are not in
+the model's 1,814-token vocabulary. It has no input slot for them
+and cannot generate a completion.
